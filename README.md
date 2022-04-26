@@ -27,7 +27,7 @@ https://courses.edx.org/certificates/5a1fa71a6a284809a4d157386b1026fc
 ## Treehouse Profile/ Courses (2013 - 2016):
 https://teamtreehouse.com/mohsenqaddoura
 
-## Codecademy (2013 - 2019):
+## Codecademy (2013 - 2022):
 https://www.codecademy.com/profiles/pyMaster14822
 
 
