@@ -5,9 +5,9 @@
 ## Graduate of Mobile Application Design and Development, Algonquin College, Ottawa, Canada (2020-2022)
 
 ## Portfolio/Projects page:
- * [https://mohsen-kadoura.github.io/Mohsen-Kadoura/#home](https://qadd0004.github.io/Mohsen-Qaddoura-Profile/)
+ * [Github Profile](https://qadd0004.github.io/Mohsen-Qaddoura-Profile/)
  
- * [https://codepen.io/mq1960/full/gPzJKW](https://mohsen-qaddoura.com/)
+ * [mohsen-qaddoura.com](https://mohsen-qaddoura.com/)
 
 ## Certificates:
 * JavaScript Algorithms and data structures, freeCodeCamp, 2019.
