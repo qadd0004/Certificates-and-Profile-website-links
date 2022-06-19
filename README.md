@@ -2,12 +2,12 @@
 
 # Mohsen-Kadoura(Mohsen Qaddoura)
 
-## Student at Mobile Application Design and Development, Algonquin College, Ottawa, Canada (2020-2022)
+## Graduate of Mobile Application Design and Development, Algonquin College, Ottawa, Canada (2020-2022)
 
 ## Portfolio/Projects page:
- * https://mohsen-kadoura.github.io/Mohsen-Kadoura/#home
+ * [https://mohsen-kadoura.github.io/Mohsen-Kadoura/#home](https://qadd0004.github.io/Mohsen-Qaddoura-Profile/)
  
- * https://codepen.io/mq1960/full/gPzJKW
+ * [https://codepen.io/mq1960/full/gPzJKW](https://mohsen-qaddoura.com/)
 
 ## Certificates:
 * JavaScript Algorithms and data structures, freeCodeCamp, 2019.
@@ -24,10 +24,8 @@ https://courses.edx.org/certificates/5a1fa71a6a284809a4d157386b1026fc
 
  https://images2.imgbox.com/d0/68/wRyU1JcE_o.jpg
 
-## Treehouse Profile/ Courses (2013 - 2016):
-https://teamtreehouse.com/mohsenqaddoura
+## Treehouse Profile/ Courses (2013 - 2016)
 
-## Codecademy (2013 - 2022):
-https://www.codecademy.com/profiles/pyMaster14822
+## Codecademy (2013 - 2022)
 
 
